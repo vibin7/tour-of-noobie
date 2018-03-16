@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app';
+  heroes = ['Windstorm', 'Bombasto', 'Magneta', 'Tornado'];
+  boo = true;
+
 }
